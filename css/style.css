@@ -1,0 +1,64 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+  
+/* Estilo para o menu de navegação */
+nav {
+    color: #fff;
+    text-align: right;
+    background-image: url('../imagens/patria.jpg');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    width: 1350px; 
+    height: 680px; 
+    padding: 10px;
+}
+  
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+  
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+  
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+  
+/* Estilo para o conteúdo principal */
+.main-content {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Estilo para os botões */
+.button {
+    background-color: #0066cc;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+  
+/* Estilo para rodapé */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+  
+/* Estilo para links no rodapé */
+footer a {
+    color: #fff;
+    text-decoration: underline;
+}
+  
