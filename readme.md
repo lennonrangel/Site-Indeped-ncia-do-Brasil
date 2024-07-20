@@ -15,11 +15,11 @@ O site tem como objetivo educar os visitantes sobre a independência do Brasil, 
 - Fatos Interessantes: Uma seção dedicada aos fatos interessantes sobre a independência, enriquecendo a compreensão do visitante.
 
 <div align="center">
-  <br><img src="https://media.discordapp.net/attachments/1002050908156334082/1166519408768860220/image.png?ex=654ac8db&is=653853db&hm=2e23bfddea9d8d849269ec6b0dd3c5e5cdaae5841869d25ddd59d3df7740772a&=&width=999&height=468" aling=center>
+  <br><img src="https://github.com/user-attachments/assets/03404de0-c926-49d6-be59-077c3c9c94d2" text-align: center>
 </div>
 
 <div align="center">
-  <br><img src="https://media.discordapp.net/attachments/1002050908156334082/1166519727657594950/image.png?ex=654ac927&is=65385427&hm=cce96aa2d32db56e0ae067725bc5bae6b18ce84c01f3f069a84f7d0f04299dd0&=&width=651&height=468" text-align: center>
+  <br><img src="https://github.com/user-attachments/assets/35374c92-d324-4157-b605-594776dd0dde" aling=center>
 </div>
 
 ## Personalização
